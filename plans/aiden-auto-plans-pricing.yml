@@ -1,0 +1,20 @@
+generated: '2026-09-14'
+method: searched
+source: https://aidenauto.com/
+plan_count: 0
+currency: null
+note: >-
+  AiDEN Auto publishes no pricing or plans page of any kind. The site has no /pricing
+  route and no pricing link in its navigation or footer; every commercial call to action
+  on every page ("Request A Demo", "Schedule A Demo", "Connect with us here") routes to a
+  contact form or to hello@aidenauto.com. The company sells an OEM/fleet/service-provider
+  platform through an enterprise motion, so access terms are negotiated rather than
+  listed. Recorded as an honest zero, not a gap in our search.
+plans: []
+evidence:
+- url: https://aidenauto.com/
+  status: 200
+- url: https://aidenauto.com/partners
+  status: 200
+- url: https://aidenauto.com/oems
+  status: 200

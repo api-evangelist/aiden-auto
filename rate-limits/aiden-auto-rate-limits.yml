@@ -1,0 +1,18 @@
+generated: '2026-09-14'
+method: searched
+source: https://aidenauto.com/partners
+limit_count: 0
+headers: []
+note: >-
+  No rate limits are documented. AiDEN Auto publishes no developer portal, API reference
+  or docs host (docs.aidenauto.com, developer.aidenauto.com and api.aidenauto.com do not
+  resolve), so there is no surface on which limits, quotas, throttling headers or a 429
+  contract could be stated. The only public mention of an API is a partner-onboarding
+  step on /partners — "Define workflow moments, required APIs, architecture planning" and
+  "integrate with AiDEN APIs" — which is a sales process, not a reference.
+rate_limits: []
+evidence:
+- url: https://aidenauto.com/partners
+  status: 200
+- url: https://aidenauto.com/api-docs
+  status: 404
